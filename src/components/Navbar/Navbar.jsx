@@ -4,7 +4,7 @@ import "../../index.css";
 import navLogo from "../../assets/logo.png";
 import coinImg from "../../assets/coin.png"
 
-const Navbar = (props) => {
+const Navbar = ({balance}) => {
     return (
         
         <>
@@ -20,7 +20,7 @@ const Navbar = (props) => {
                     <li><a href="#">Schedules</a></li>
                   </ul>
                   <button className="btn border-2 bg-white rounded-xl">
-                    <span>0</span>
+                    <span>{balance}</span>
                     <span>Coin</span>
                     <span>
                       <img src={coinImg} alt="coin image" />
