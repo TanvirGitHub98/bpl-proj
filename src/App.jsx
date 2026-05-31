@@ -1,6 +1,6 @@
 import "./App.css";
 import "./index.css";
- import { ToastContainer } from 'react-toastify';
+import { ToastContainer } from "react-toastify";
 import Navbar from "./components/Navbar/Navbar";
 import HeroSection from "./components/HeroSection/HeroSection";
 import AvailablePlayers from "./components/AvailablePlayers/AvailablePlayers";
@@ -65,16 +65,26 @@ function App() {
           ></AvailablePlayers>
         </Suspense>
       ) : (
-        <SelectedPlayers
-          purchasePlayers={purchasePlayers}
-          setPurchasePlayers={setPurchasePlayers}
-          handleDelete={handleDelete}
-        ></SelectedPlayers>
+        <>
+          <SelectedPlayers
+            purchasePlayers={purchasePlayers}
+            setPurchasePlayers={setPurchasePlayers}
+            handleDelete={handleDelete}
+          ></SelectedPlayers>
+          <div className="max-w-[1320px] mx-auto mt-3">
+            {purchasePlayers.length < 6 ? (
+              <button
+                className="btn bg-[#E7FE29] rounded-xl mt-4 outline-2 outline-offset-6 p-4"
+                onClick={() => setToggle(true)}
+              >
+                Add More Players
+              </button>
+            ) : null}
+          </div>
+        </>
       )}
 
-
-
-     {/* Toaster */}
+      {/* Toaster */}
       <ToastContainer />
     </>
   );

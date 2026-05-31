@@ -15,7 +15,7 @@ const HeroSection = (props) => {
             Assemble Your Ultimate Dream 11 Cricket Team
           </h1>
           <h5 className="text-center">Beyond Boundaries Beyond Limits</h5>
-          <button className="btn bg-[#E7FE29] rounded-xl b  outline-10  outline-[#EFE29] ">
+          <button className="btn bg-[#E7FE29] rounded-xl   outline-2 outline-offset-6 outline-white ">
             Claim Free Credit
           </button>
         </div>

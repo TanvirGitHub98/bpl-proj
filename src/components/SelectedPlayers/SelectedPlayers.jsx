@@ -10,7 +10,10 @@ const SelectedPlayers = ({purchasePlayers, setPurchasePlayers,handleDelete}) => 
             purchasePlayers.map(player=>(
                 <SelectedPlayerCard player={player} handleDelete={handleDelete}></SelectedPlayerCard>
             ))
+
+             
            }
+     
         </div>
     );
 };
