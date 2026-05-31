@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co/zWH935qR/pat-cummins-185738565-3x4.jpg",
+    "role": "All-Rounder",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 2000000
+  },
+  {
+    "id": 2,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co/LznvtbGQ/warner2.jpg",
+    "role": "Batter",
+    "battingHand": "Left-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1800000
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co/MkyN6vth/smith2.jpg",
+    "role": "Batter",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1900000
+  },
+  {
+    "id": 4,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "https://i.ibb.co/3mkcmm9G/startc.jpg",
+    "role": "Bowler",
+    "battingHand": "Left-Hand-Bat",
+    "bowlingHand": "Left-Hand-Bowl",
+    "price": 1700000
+  },
+  {
+    "id": 5,
+    "name": "Josh Hazlewood",
+    "country": "Australia",
+    "image": "https://i.ibb.co/6cHXk9Jt/hazlewood.jpg",
+    "role": "Bowler",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1500000
+  },
+  {
+    "id": 6,
+    "name": "Nathan Lyon",
+    "country": "Australia",
+    "image": "https://i.ibb.co/XkMb60x9/nathan.jpg",
+    "role": "Bowler",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1400000
+  },
+  {
+    "id": 7,
+    "name": "Travis Head",
+    "country": "Australia",
+    "image": "https://i.ibb.co/G446xxg3/zampa.jpghttps://i.ibb.co/qYtpbvDD/head3.jpg",
+    "role": "Batter",
+    "battingHand": "Left-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1600000
+  },
+  {
+    "id": 8,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co/bp4CqL3/maxwell.jpg",
+    "role": "All-Rounder",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1750000
+  },
+  {
+    "id": 9,
+    "name": "Alex Carey",
+    "country": "Australia",
+    "image": "https://i.ibb.co/JWksYq7J/alex3.jpg",
+    "role": "Wicket-Keeper",
+    "battingHand": "Left-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1300000
+  },
+  {
+    "id": 10,
+    "name": "Cameron Green",
+    "country": "Australia",
+    "image": "https://i.ibb.co/JWQhRG5T/cameron4.jpg",
+    "role": "All-Rounder",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1450000
+  },
+  {
+    "id": 11,
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "image": "https://i.ibb.co/s9hfCz4L/labu.jpg",
+    "role": "Batter",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1550000
+  },
+  {
+    "id": 12,
+    "name": "Adam Zampa",
+    "country": "Australia",
+    "image": "https://i.ibb.co/G446xxg3/zampa.jpg",
+    "role": "Bowler",
+    "battingHand": "Right-Hand-Bat",
+    "bowlingHand": "Right-Hand-Bowl",
+    "price": 1200000
+  }
+]
+
+
